@@ -1,4 +1,4 @@
-# Search-Engine---inf141
+# Search-Engine
 Group Project to Develop a Search Engine for Information Retrieval.
 Group Members:
 Kayla Carrera,
